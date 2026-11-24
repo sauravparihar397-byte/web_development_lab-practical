@@ -2,6 +2,12 @@
 
 A simple website for recording and managing daily expenses.
 
+[Open the live website](https://webdevelopmentlab-practical.vercel.app/)
+
+## Screenshot
+
+![Student Expense Tracker website](./screenshot.png)
+
 ## Student Details
 
 - Name: SAURAV PARIHAR
